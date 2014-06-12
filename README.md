@@ -7,3 +7,5 @@ For branch testing repo
 さいしょのコミット！
 
 ２かいめ！
+
+３かいめ！
